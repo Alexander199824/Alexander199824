@@ -1,0 +1,38 @@
+<svg width="680" height="220" viewBox="0 0 680 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="220" fill="#0d1117"/>
+  <rect x="0" y="0" width="4" height="220" fill="#1D9E75"/>
+
+  <!-- Tarjeta 1 — Elite -->
+  <rect x="12" y="10" width="204" height="200" rx="6" fill="#161b22" stroke="#21262d" stroke-width="0.5"/>
+  <rect x="12" y="10" width="204" height="4" rx="3" fill="#1D9E75"/>
+  <text x="24" y="36" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#f0f6fc">Elite Fitness Club</text>
+  <rect x="24" y="44" width="90" height="16" rx="3" fill="#1D9E75"/>
+  <text x="69" y="56" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#0d1117" text-anchor="middle">Sistema a la medida</text>
+  <text x="24" y="76" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#484f58">Sistema a medida para gimnasio</text>
+  <text x="24" y="90" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#484f58">en Rabinal, B.V. Membresias,</text>
+  <text x="24" y="104" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#484f58">pagos y reportes automatizados.</text>
+  <text x="24" y="124" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#8b949e">React · Node.js · PostgreSQL</text>
+
+  <!-- Tarjeta 2 — Farmacia -->
+  <rect x="238" y="10" width="204" height="200" rx="6" fill="#161b22" stroke="#21262d" stroke-width="0.5"/>
+  <rect x="238" y="10" width="204" height="4" rx="3" fill="#3178C6"/>
+  <text x="250" y="36" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#f0f6fc">Farmacia Elizabeth</text>
+  <rect x="250" y="44" width="86" height="16" rx="3" fill="#3178C6"/>
+  <text x="293" y="56" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">5 roles de usuario</text>
+  <text x="250" y="76" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#484f58">Gestion farmaceutica con</text>
+  <text x="250" y="90" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#484f58">inventario FIFO por lotes</text>
+  <text x="250" y="104" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#484f58">y Google OAuth.</text>
+  <text x="250" y="124" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#8b949e">React · Node.js · PostgreSQL</text>
+
+  <!-- Tarjeta 3 — Bufete -->
+  <rect x="464" y="10" width="204" height="200" rx="6" fill="#161b22" stroke="#21262d" stroke-width="0.5"/>
+  <rect x="464" y="10" width="204" height="4" rx="3" fill="#777BB4"/>
+  <text x="476" y="36" font-family="Georgia, serif" font-size="13" font-weight="700" fill="#f0f6fc">Bufete Jeronimo</text>
+  <rect x="476" y="44" width="40" height="16" rx="3" fill="#777BB4"/>
+  <text x="496" y="56" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#ffffff" text-anchor="middle">2023</text>
+  <text x="476" y="76" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#484f58">Sistema juridico con gestion</text>
+  <text x="476" y="90" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#484f58">de clientes, casos y</text>
+  <text x="476" y="104" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#484f58">expedientes digitales.</text>
+  <text x="476" y="124" font-family="'Segoe UI', Arial, sans-serif" font-size="10" fill="#8b949e">HTML · CSS · PHP · MySQL</text>
+
+</svg>
